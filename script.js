@@ -129,5 +129,5 @@ const queryString = window.location.search;
 console.log(queryString);
 
 function getParams() {
-    window.open('https://sistema7k.com/n-vsl/' + `${queryString}`);
+    window.open('https://www.redirectmais.com/run/comunidadepenalty' + `${queryString}`);
 }
