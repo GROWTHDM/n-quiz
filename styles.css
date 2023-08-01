@@ -39,9 +39,9 @@ h3 {
     font-weight: 700;
     font-size: 1.7rem;
     margin-bottom: 30px;
-    background: #e5e3e3;
+/*     background: #e5e3e3; */
     padding: 10px;
-    box-shadow: 0 0 10px black;
+/*     box-shadow: 0 0 10px black; */
 
 }
 
@@ -182,9 +182,10 @@ button{
     font-size: 20px;
     padding: 10px;
     font-weight: 600;
-    box-shadow: 0 0 10px black;
+    border-radius: 10px;
     cursor: pointer;
     text-align: center;
+    box-shadow: 0 0px 5px #03e304;
 }
 
 .btn{
@@ -195,6 +196,8 @@ button{
 .btnNao{
    background: red;
    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 0 5px red;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
